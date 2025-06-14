@@ -2,6 +2,7 @@
 Esta es una aplicación móvil desarrollada en Android Studio utilizando Java y diseñada para dispositivos Android. El proyecto implementa una interfaz moderna y funcional, y está enfocado en  gestión de ejercicios básicos 
 # 📱 App de Ejercicios Prácticos Android
 Esta es una **aplicación móvil desarrollada en Android Studio** cuyo objetivo es servir como menú principal, el cual inicia con un login  44   o lanzador para una serie de **ejercicios prácticos básicos** en Android. Cada botón en la interfaz principal redirige al usuario a una actividad diferente que representa un ejercicio funcional, ideal para el aprendizaje y práctica de conceptos básicos de desarrollo Android.
+ [![Whats-App-Image-2025-06-13-at-9-25-43-PM.jpg](https://i.postimg.cc/153vV5K6/Whats-App-Image-2025-06-13-at-9-25-43-PM.jpg)](https://postimg.cc/XXtfTWm7)
 
 ---
 
@@ -14,7 +15,7 @@ Esta es una **aplicación móvil desarrollada en Android Studio** cuyo objetivo 
   - Formularios básicos, operaciones matemáticas, y más.
 - Navegación simple y clara.
 - Enfoque educativo y de refuerzo para estudiantes
-
+[![Whats-App-Image-2025-06-13-at-9-26-52-PM.jpg](https://i.postimg.cc/sgQRFRvF/Whats-App-Image-2025-06-13-at-9-26-52-PM.jpg)](https://postimg.cc/YvHPgZ68)
 ---
 ## 🚀 Funcionalidades principales
 
@@ -22,6 +23,7 @@ Esta es una **aplicación móvil desarrollada en Android Studio** cuyo objetivo 
 - Navegación mediante `Intents` hacia distintas actividades.
 - Ejercicios básicos con lógica sencilla y componentes nativos.
 - Ideal para aprendizaje y práctica guiada.
+  [![Whats-App-Image-2025-06-13-at-9-26-38-PM.jpg](https://i.postimg.cc/vHxPb8Lv/Whats-App-Image-2025-06-13-at-9-26-38-PM.jpg)](https://postimg.cc/hfg80BYJ)
 ---
 
 ## 🧰 Tecnologías usadas
@@ -31,7 +33,7 @@ Esta es una **aplicación móvil desarrollada en Android Studio** cuyo objetivo 
 - **XML** para diseño de interfaces
 - **Intents** para navegación entre actividades
 - Diseño basado en **Material Design**
-
+[![Whats-App-Image-2025-06-13-at-9-26-22-PM.jpg](https://i.postimg.cc/TYTrHRNw/Whats-App-Image-2025-06-13-at-9-26-22-PM.jpg)](https://postimg.cc/6T128NXJ)
 ---
 
 
